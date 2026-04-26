@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Shikha! 👋
 
-<!--
-**yadavshikha9786/yadavshikha9786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Python Enthusiast
+🌍 Based in India
+🚀 Just getting started with GitHub!
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- 🐍 Python
+- 📓 Jupyter Notebook
+- 📊 Data Analysis
+- 📈 Excel / Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Analyzing data with Python
+- Building data projects
+
+## 📫 Connect with Me
+- LinkedIn: (linkedin.com/in/shikha-yadav-40aa683a1)
+- Email: (shikhaydv40@gmail.com)
+
+---
