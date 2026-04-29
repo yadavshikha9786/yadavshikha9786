@@ -15,7 +15,7 @@
 - Building data projects
 
 ## 📫 Connect with Me
-- LinkedIn: (linkedin.com/in/shikha-yadav-40aa683a1)
+- LinkedIn: (www.linkedin.com/in/shikha-yadav-40aa683a1)
 - Email: (shikhaydv40@gmail.com)
 
 ---
